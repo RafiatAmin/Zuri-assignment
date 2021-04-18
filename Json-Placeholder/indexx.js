@@ -23,6 +23,3 @@ https.get("https://jsonplaceholder.typicode.com/posts", res => {
     });
 
 });
-
-
-//}).listen(5000);
